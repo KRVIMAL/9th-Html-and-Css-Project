@@ -14,7 +14,7 @@
 
  <p align="center">
     <br />
-    <a href="https://scrypto-landing-page.netlify.app/">Click here to view live project</a>
+    <a href="https://developers-landing-pages.netlify.app/">Click here to view live project</a>
   </p>
 </div>
 
@@ -44,10 +44,10 @@
 ## Screenshots
 
 #### 1. For mobile screens
-[![main page clickable image](./screen-shots/phone.png)](https://scrypto-landing-page.netlify.app/)
+[![main page clickable image](./screen-shots/phone.png)](https://developers-landing-pages.netlify.app/)
 
 #### 2. For laptop screens
-[![main page clickable image](./screen-shots/laptop.png)](https://scrypto-landing-page.netlify.app/)
+[![main page clickable image](./screen-shots/laptop.png)](https://developers-landing-pages.netlify.app/)
 
 
 
@@ -165,10 +165,9 @@
 <!-- Project screenshot -->
 [e-mail]:kvimal@gmail.com
 
-[project-url]:https://scrypto-landing-page.netlify.app/
+[project-url]:https://developers-landing-pages.netlify.app/
 
-[source-code]:https://github.com/KRVIMAL/5th-Html-and-Css-project
-
+[source-code]:https://github.com/KRVIMAL/9th-Html-and-Css-Project
 [instagram-url]: https://www.instagram.com/vimal.eth/
 
 [linkedin-url]: https://www.linkedin.com/in/kr-vimal/
